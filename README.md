@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website]()
 
-## Some Images:
+## Some Images :
 
 
 ## Table of Contents
