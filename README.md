@@ -6,7 +6,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Some Images:
 
 
-## Table of Contents
+## Table of Contents:
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
